@@ -1,4 +1,4 @@
-ID,UniqueName,Is Auto Point,Story,PointBay,IsSpecial,X,Y,Z,,Envelope:QG2+(100/30-BSE-2E)/J-Max,Envelope:QG2+(100/30-BSE-2E)/J-Min,Envelope:QG1+(100/30-BSE-2E)/J-Max,Envelope:QG1+(100/30-BSE-2E)/J-Min,Max Compression,Max Tension
+ID,UniqueName,Is Auto Point,Story,PointBay,IsSpecial,X,Y,Z,Code,Envelope:QG2+(100/30-BSE-2E)/J-Max,Envelope:QG2+(100/30-BSE-2E)/J-Min,Envelope:QG1+(100/30-BSE-2E)/J-Max,Envelope:QG1+(100/30-BSE-2E)/J-Min,Max Compression,Max Tension
 Base-6,940,No,Base,6,No,341,133.6667,0,c436ac73-bbb8-42bf-8521-795466350c93,81.328,-70.167,82.711,-68.784,82.711,-70.167
 Base-11,905,No,Base,11,No,142.4167,0,0,2fc16750-a94f-4a6f-b178-726bfa08a9b0,235.718,-55.939,262.935,-28.722,262.935,-55.939
 Base-13,630,No,Base,13,No,120.75,0,0,223a2cdb-a01d-459d-80db-d3577e99d52e,322.374,-133.262,350.611,-105.025,350.611,-133.262
